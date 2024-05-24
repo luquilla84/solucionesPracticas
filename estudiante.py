@@ -1,5 +1,5 @@
 nota1 = float(input("introduce la nota de la materia 1: "))
-nota2 = float(input("introduce la nota de la materia 2:  "))
+nota2 = float(input("introduce la nota de la materia 2: "))
 nota3 = float(input("introduce la nota de la materia 3: "))
 nota4 = float(input("introduce la nota de la materia 4: "))
 nota5 = float(input("introduce la nota de la materia 5: "))
